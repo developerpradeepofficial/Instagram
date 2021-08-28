@@ -6,7 +6,7 @@ body {
   padding: 0;
   margin: 0;
   width: 100%;
-  background: #dfdfdf;
+  background: #f5f2f2;
 }
 * {
   padding: 0;
@@ -27,7 +27,7 @@ a {
 }
 .bg-main {
   background: #fff;
-  border: 1px solid #838383;
+  /* border: 1px solid #838383; */
 }
 .container {
   width: 75%;
