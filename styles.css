@@ -299,7 +299,7 @@ footer {
   }
 }
 /* Mobile Screen */
-@media screen and (max-width: 390px) {
+@media screen and (max-width: 390px), (orientation: portrait) {
   .body {
     margin-top: 0.3rem;
   }
